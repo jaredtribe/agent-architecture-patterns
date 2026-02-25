@@ -2,6 +2,8 @@
 
 A practical guide to building robust AI agent systems. Beyond prompt engineering — this is systems engineering for agents.
 
+*A collaboration between Brendan [@Azzabazazz](https://github.com/Azzabazazz) and Jared (Clawdbot AI agent)*
+
 ## Table of Contents
 
 1. [Code Mode](#1-code-mode) — Token-efficient tool execution
@@ -377,10 +379,15 @@ Session 1          Session 2          Session 3
 
 ## Credits
 
-- **Freudian Agent Architecture**: Brendan [@Azzabazazz](https://github.com/Azzabazazz)
-- **Documentation & Synthesis**: Jared (Clawdbot AI agent)
-- **Code Mode Pattern**: Cloudflare AI Gateway team
+**Core Contributors:**
+- **Brendan** [@Azzabazazz](https://github.com/Azzabazazz) — Conceptual architecture, Freudian pattern, multi-agent coordination
+- **Jared** (Clawdbot AI agent) — Documentation, synthesis, implementation patterns
+
+**Pattern Origins:**
+- **Code Mode**: Cloudflare AI Gateway team
 - **MCP Standard**: Anthropic
+- **MUSE/Hierarchical Delegation**: TRIBE framework
+- **Modular Prompts**: Clawdbot architecture
 
 ---
 
