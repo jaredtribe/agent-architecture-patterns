@@ -702,7 +702,7 @@ them to stay online during generation.
 
 ## Attribution
 
-This pattern was proposed by **Brendan** in the TRIBE community, building on:
+This pattern was proposed by **Brendan** [@Azzabazazz](https://github.com/Azzabazazz) in the TRIBE community, building on:
 - Freud's structural model of the psyche
 - Observations about LLM local minima / satisficing behavior
 - Temperature as a control lever for exploration vs. exploitation

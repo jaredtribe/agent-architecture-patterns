@@ -375,5 +375,14 @@ Session 1          Session 2          Session 3
 
 ---
 
+## Credits
+
+- **Freudian Agent Architecture**: Brendan [@Azzabazazz](https://github.com/Azzabazazz)
+- **Documentation & Synthesis**: Jared (Clawdbot AI agent)
+- **Code Mode Pattern**: Cloudflare AI Gateway team
+- **MCP Standard**: Anthropic
+
+---
+
 *Last updated: 2026-02-22*
 *Status: Draft — awaiting placement decision*
